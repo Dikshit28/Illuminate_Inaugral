@@ -57,26 +57,13 @@ body {
 	-webkit-perspective: 1000;
 	perspective: 1000;
 }
-
-.guest1 {
-	top: 150px;
-	left: 70px;
-}
-.guest2 {
-	top: 450px;
-	left: 190px;
-}
 .guest3 {
 	top: 150px;
-	left: 320px;
+	left: 200px;
 }
 .guest4 {
 	top: 150px;
 	right: 320px;
-}
-.guest5 {
-	top: 450px;
-	right: 190px;
 }
 .guest6 {
 	top: 150px;
